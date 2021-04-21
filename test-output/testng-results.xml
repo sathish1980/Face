@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51340" started-at="2020-07-19T05:36:20Z" finished-at="2020-07-19T05:37:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51340" started-at="2020-07-19T05:36:20Z" finished-at="2020-07-19T05:37:11Z">
+      <class name="Mavens.Mavensample.Tescases">
+        <test-method status="PASS" signature="launching()[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="launching" is-config="true" duration-ms="10595" started-at="2020-07-19T05:36:09Z" finished-at="2020-07-19T05:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launching -->
+        <test-method status="PASS" signature="urllaunch()[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="urllaunch" is-config="true" duration-ms="7519" started-at="2020-07-19T05:36:20Z" finished-at="2020-07-19T05:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="login" duration-ms="20675" started-at="2020-07-19T05:36:28Z" data-provider="customerdataread" finished-at="2020-07-19T05:36:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="login" duration-ms="12419" started-at="2020-07-19T05:36:49Z" data-provider="customerdataread" finished-at="2020-07-19T05:37:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="login" duration-ms="10004" started-at="2020-07-19T05:37:01Z" data-provider="customerdataread" finished-at="2020-07-19T05:37:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Mavens.Mavensample.Tescases@5762806e]" name="teardown" is-config="true" duration-ms="1912" started-at="2020-07-19T05:37:11Z" finished-at="2020-07-19T05:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Mavens.Mavensample.Tescases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
